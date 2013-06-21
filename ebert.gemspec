@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Ebert::VERSION
   gem.authors       = ["Dan Pickett"]
   gem.email         = ["dan.pickett@launchware.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Ebert is a gem that talks to the Rotten Tomatoes API}
+  gem.summary       = %q{It queries the Rotten Tomatoes API and returns search results}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
